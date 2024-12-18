@@ -48,13 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"  />
-</div>
-
-###
 
 <p align="left">Hello World!!</p>
 
