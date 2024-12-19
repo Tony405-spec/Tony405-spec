@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Kenga</h1>
-<h3 align="center">I am a Data Entusiast from Kenya</h3>
+<h3 align="center">I am a Data Enthusiast from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tony405-spec&label=Profile%20views&color=0e75b6&style=flat" alt="tony405-spec" /> </p>
 
