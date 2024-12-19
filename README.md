@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Kenga</h1>
-<h3 align="center">I am a Data Entusiast from Kenya</h3>
+<h3 align="center">I am a Data Enthusiast from Kenya</h3>
 
 - ⚡ Fun fact **90% of the world data has been generated in the last two years**
 
