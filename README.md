@@ -69,17 +69,24 @@
 
 ---
 
-### ⚠️ SYSTEM WARNING
-
-> This node is continuously self-upgrading. Unexpected intelligence spikes are to be expected.  
-> ⚠️ Resistance is futile — automation is inevitable 😁.  
-> _“Any sufficiently advanced bug is indistinguishable from a feature. Eliminating both.”_
-
----
-
-### 🔐 ACCESS TERMINAL
+### 🛡️ RESTRICTED ZONE
 
 ```bash
-> decrypt --handshake --initiate_collab --target=Tony405-spec
-> STATUS: ACCESS GRANTED
-> KEYS: GitHub // Terminal Interface // API Linkups
+> INITIATE REQUEST: /restricted-data-access
+> RESPONSE: 403 // 🔒 ACCESS DENIED
+> ERROR: "This content is not available."
+
+🧠 Skynet Node // TONY405-SPEC
+╔══════════════════════════════════════╗
+║    🔴 WARNING: SECURE DATA ZONE      ║
+║  Unauthorized access attempt logged. ║
+║     Surveillance protocols active.   ║
+╚══════════════════════════════════════╝
+
+🛡️ ENFORCE MODE: TERMINATOR LIVE
+→ Status: Engaged  
+→ Counterintrusion Sequence: In Progress  
+→ Estimated Threat Level: HUMAN CURIOUSITY 😅
+
+> RECOMMENDATION:
+📡 Request clearance via: `initiate_collab --target=Tony405-spec`
