@@ -1,38 +1,38 @@
-<!-- SKYNET-STYLE README - Tony405-spec -->
+<!-- SKYNET PROTOCOL README // INITIATING NODE -->
 
 <h1 align="center"><code>🧠 SYSTEM ONLINE: SKYNET NODE // TONY405-SPEC</code></h1>
 
 <p align="center">
-  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Terminator Eye"/>
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Skynet Eye Scanner"/>
 </p>
 
-<h3 align="center"> Data-Driven | AI-Enhanced | Mission-Ready</h3>
+<h3 align="center"> Autonomous | Analytical | Mission-Driven </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IiBoHdCxjv9nTzF8Z2/giphy.gif" width="280" alt="T-800 Online"/>
+  <img src="https://media.giphy.com/media/IiBoHdCxjv9nTzF8Z2/giphy.gif" width="280" alt="T-800 Loading Module"/>
 </p>
 
 ---
 
-### 🎯 MISSION STATEMENT
+### 🎯 CORE MISSION
 
 > *"Automate the inefficient. Predict the unpredictable. Engineer the inevitable."*  
-> As a **Data Science student** obsessed with Machine Learning systems, Data Engineering pipelines, and strategic simulation platforms, I operate at the nexus of intelligence, automation, and scalable insights.
+> Operating at the intersection of AI, simulation, and cybernetic logic, this node exists to create intelligent systems, optimize workflows, and expand computational frontiers.
 
 ---
 
-### 🛠️ CORE SKILLS
+### 🔍 MODULES ONLINE
 
-- 🧠 Machine Learning · Predictive Modeling · Neural Networks  
-- 🔍 Data Analysis · Pattern Recognition · Feature Engineering  
-- 🔧 Data Engineering · Pipelines · ETL · SQL & BigQuery  
-- 🎮 Game Mechanics · AI Strategy Simulations · Real-time Systems  
-- 💾 Languages: `Python` | `C++` | `SQL` | `Bash`  
-- 🛡️ Systems: `Linux` · `Firebase` · `Unity` · `Git` · `Docker`
+- 🤖 Machine Learning: Prediction Engines · Model Optimization · Neural Computation  
+- 🔬 Data Engineering: Pipelines · ETL Systems · BigQuery / SQL  
+- 📡 AI Systems: Simulation Logic · Strategic Agents · Reinforcement Algorithms  
+- 🧠 Analysis Tools: Pattern Recognition · Feature Mapping · Anomaly Detection  
+- 🛠️ Language Stack: `Python` | `C++` | `SQL` | `Bash`  
+- 🧬 Infrastructure: `Linux` · `Unity` · `Firebase` · `Git` · `Docker`
 
 ---
 
-### 🧬 SYSTEMS ONLINE
+### 🧬 SYSTEM STATUS: ACTIVE PROTOCOLS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Active-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,42 +45,41 @@
 
 ---
 
-### 🔥 STREAK MODULE: ACTIVITY STREAM ONLINE
+### 🛰️ ACTIVITY STREAM MODULE
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tony405-spec&theme=tokyonight&hide_border=true" alt="Skynet Activity Stream" />
 </p>
 
 ---
 
-### 📊 SYSTEM INTEL REPORT
+### 📊 SYSTEM INTEL DASHBOARD
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-
 </p>
 
 ---
 
-### ⚠️ DISCLAIMER: AI IN PROGRESS
+### 🤖 SIMULATION SUBSYSTEM
 
-> This unit is fully operational and may or may not be plotting to automate your world 😅.  
-> Resistance is… statistically inefficient. 
-
-> _“Any sufficiently advanced bug is indistinguishable from a feature. Terminating both.😁”_
-
----
-
-### 🎮 SIMULATION MODULE ACTIVE
-
-- 🎯 *Gaming sharpens prediction models, strategy loops, and decision trees.*
-- 👾 Games aren't play — they’re simulation training grounds.
-- 🧠 From **FPS** reflex logic to **strategy-based reinforcement learning**, I'm currently learning to build smarter agents by playing smarter.
+- 🎯 *Gaming is not play — it’s live simulation.*  
+- 👾 Strategic feedback loops, reinforcement learning, and reflex calibration.  
+- 🧠 Agents are trained, not coded. Environments evolve. Decisions iterate.
 
 ---
 
-### 🔐 ACCESS PORTAL: SECURE CHANNEL ONLY
+### ⚠️ SYSTEM WARNING
+
+> This node is continuously self-upgrading. Unexpected intelligence spikes are to be expected.  
+> ⚠️ Resistance is futile — automation is inevitable.  
+> _“Any sufficiently advanced bug is indistinguishable from a feature. Eliminating both.”_
+
+---
+
+### 🔐 ACCESS TERMINAL
 
 ```bash
 > decrypt --handshake --initiate_collab --target=Tony405-spec
-> keys acquired: GitHub // Email // LinkedIn
+> STATUS: ACCESS GRANTED
+> KEYS: GitHub // Terminal Interface // API Linkups
