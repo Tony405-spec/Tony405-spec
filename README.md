@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="260" alt="Skynet Terminal - Feed Blocked"/>
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/skynet-blocked.gif?raw=true" width="260" alt="Skynet Terminal - Feed Blocked"/>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
   <code>💀 SYSTEM RESPONSE: ACCESS DENIED</code>
 </p>
 <!-- 🟥 END TERMINATOR THEME -->
+
 
 <h3 align="center"> Autonomous | Analytical | Mission-Driven </h3>
 
