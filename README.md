@@ -6,7 +6,7 @@
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="400" alt="Terminator Eye"/>
 </p>
 
-<h2 align="center">💀 Data-Driven | AI-Enhanced | Mission-Ready | Gamer-Trained</h2>
+<h2 align="center"> Data-Driven | AI-Enhanced | Mission-Ready | Gamer-Trained</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/IiBoHdCxjv9nTzF8Z2/giphy.gif" width="320" alt="T-800 Online"/>
