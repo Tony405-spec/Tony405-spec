@@ -18,17 +18,18 @@
 
 > *"Automate the inefficient. Predict the unpredictable. Engineer the inevitable."*
 
-As a **Data Scientist**, I deploy advanced **Machine Learning models**, construct intelligent **Data Engineering pipelines**, and run high-fidelity **simulations**. I operate where human decision-making ends — and statistical domination begins.
+As a **Data Science student** with a deep obsession for intelligent systems, I am actively building expertise in **Machine Learning**, **Data Engineering**, and high-fidelity **simulation environments**.  
+I operate where data transforms into decisions, and logic overrides emotion. Training is ongoing. Domination is imminent.
 
 ---
 
-### 🛠️ CORE SKILLS
+### 🛠️ CORE SKILLS (IN TRAINING)
 
 ```txt
-> Intelligence Stack Activated...
+> Intelligence Stack Booting...
 - 🧠 Machine Learning | Deep Learning | Neural Networks | AI Ops
 - 🔍 Data Analysis | Exploratory Data | Pattern Recognition
-- 🔧 Data Engineering | ETL | SQL | BigQuery | Pipelines
-- 🎮 Simulation | Reinforcement Learning | Game AI Systems
+- 🔧 Data Engineering | ETL Concepts | SQL | BigQuery | Pipelines
+- 🎮 Game AI | Simulation Logic | Reinforcement Learning
 - 💻 Languages: Python · C++ · SQL · Bash
 - 🛡️ Systems: Linux · Docker · Firebase · Unity · Git
