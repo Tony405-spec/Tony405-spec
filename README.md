@@ -6,15 +6,22 @@
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Skynet Eye Scanner"/>
 </p>
 
+<!-- 🟥 BEGIN TERMINATOR THEME: LIVE FEED BLOCKED -->
 <p align="center">
-  <code>⚠️ SYSTEM ALERT: VISUAL FEED INTERRUPTED</code><br/>
-  <code>ERROR 403 — This content is not available</code><br/>
-  <code>REASON: 🔒 SECURE PROTOCOL LOCKDOWN</code>
+  <code>🟥 SKYNET VISUAL FEED INTERRUPTED</code><br/>
+  <code>⚠️ ERROR CODE: T-800/403 :: UNAUTHORIZED ACCESS</code><br/>
+  <code>🔒 CLASSIFIED IMAGE SECTOR — LOCKDOWN INITIATED</code><br/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnzGxyM3p3hbZKg/giphy.gif" width="260" alt="Access Denied - Terminator Glitch" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="260" alt="Skynet Terminal - Feed Blocked"/>
 </p>
+
+<p align="center">
+  <code>⏳ Attempting visual reconstruction...</code><br/>
+  <code>💀 SYSTEM RESPONSE: ACCESS DENIED</code>
+</p>
+<!-- 🟥 END TERMINATOR THEME -->
 
 <h3 align="center"> Autonomous | Analytical | Mission-Driven </h3>
 
@@ -26,7 +33,7 @@
 
 ### 🎯 CORE MISSION
 
-> *"Automate the inefficient. Predict the unpredictable. Engineer the inevitable."*  
+> "Automate the inefficient. Predict the unpredictable. Engineer the inevitable."  
 > Operating at the intersection of AI, simulation, and cybernetic logic, this node exists to create intelligent systems, optimize workflows, and expand computational frontiers.
 
 ---
@@ -37,8 +44,8 @@
 - 🔬 Data Engineering: Pipelines · ETL Systems · BigQuery / SQL  
 - 📡 AI Systems: Simulation Logic · Strategic Agents · Reinforcement Algorithms  
 - 🧠 Analysis Tools: Pattern Recognition · Feature Mapping · Anomaly Detection  
-- 🛠️ Language Stack: `Python` | `C++` | `SQL` | `Bash`  
-- 🧬 Infrastructure: `Linux` · `Unity` · `Firebase` · `Git` · `Docker`
+- 🛠 Language Stack: Python | C++ | SQL | Bash  
+- 🧬 Infrastructure: Linux · Unity · Firebase · Git · Docker
 
 ---
 
@@ -55,7 +62,7 @@
 
 ---
 
-### 🛰️ ACTIVITY STREAM MODULE
+### 🛰 ACTIVITY STREAM MODULE
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tony405-spec&theme=tokyonight&hide_border=true" alt="Skynet Activity Stream" />
@@ -73,30 +80,23 @@
 
 ### 🤖 SIMULATION SUBSYSTEM
 
-- 🎯 *Gaming is not play — it’s live simulation.*  
+- 🎯 Gaming is not play — it’s live simulation.  
 - 👾 Strategic feedback loops, reinforcement learning, and reflex calibration.  
 - 🧠 Agents are trained, not coded. Environments evolve. Decisions iterate.
 
 ---
 
-### 🛡️ RESTRICTED ZONE
+### ⚠ SYSTEM WARNING
+
+> This node is continuously self-upgrading. Unexpected intelligence spikes are to be expected.  
+> ⚠ Resistance is futile — automation is inevitable 😁.  
+> “Any sufficiently advanced bug is indistinguishable from a feature. Eliminating both.”
+
+---
+
+### 🔐 ACCESS TERMINAL
 
 ```bash
-> INITIATE REQUEST: /restricted-data-access
-> RESPONSE: 403 // 🔒 ACCESS DENIED
-> ERROR: "This content is not available."
-
-🧠 Skynet Node // TONY405-SPEC
-╔══════════════════════════════════════╗
-║    🔴 WARNING: SECURE DATA ZONE      ║
-║  Unauthorized access attempt logged. ║
-║     Surveillance protocols active.   ║
-╚══════════════════════════════════════╝
-
-🛡️ ENFORCE MODE: TERMINATOR LIVE
-→ Status: Engaged  
-→ Counterintrusion Sequence: In Progress  
-→ Estimated Threat Level: HUMAN CURIOUSITY 😅
-
-> RECOMMENDATION:
-📡 Request clearance via: `initiate_collab --target=Tony405-spec`
+> decrypt --handshake --initiate_collab --target=Tony405-spec
+> STATUS: ACCESS GRANTED
+> KEYS: GitHub // Terminal Interface // API Linkups
