@@ -72,7 +72,7 @@
 ### ⚠️ SYSTEM WARNING
 
 > This node is continuously self-upgrading. Unexpected intelligence spikes are to be expected.  
-> ⚠️ Resistance is futile — automation is inevitable.  
+> ⚠️ Resistance is futile — automation is inevitable 😁.  
 > _“Any sufficiently advanced bug is indistinguishable from a feature. Eliminating both.”_
 
 ---
