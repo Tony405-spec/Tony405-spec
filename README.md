@@ -6,6 +6,16 @@
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Skynet Eye Scanner"/>
 </p>
 
+<p align="center">
+  <code>⚠️ SYSTEM ALERT: VISUAL FEED INTERRUPTED</code><br/>
+  <code>ERROR 403 — This content is not available</code><br/>
+  <code>REASON: 🔒 SECURE PROTOCOL LOCKDOWN</code>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnzGxyM3p3hbZKg/giphy.gif" width="260" alt="Access Denied - Terminator Glitch" />
+</p>
+
 <h3 align="center"> Autonomous | Analytical | Mission-Driven </h3>
 
 <p align="center">
