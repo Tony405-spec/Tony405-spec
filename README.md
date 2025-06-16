@@ -2,7 +2,7 @@
 
 <h1 align="center"><code>🧠 SYSTEM ONLINE: SKYNET NODE // TONY405-SPEC</code></h1>
 <p align="center">
-  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/terminator_eye.jpg?raw=true" width="300" alt="eyesof the tmt.png"/>
+<img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Terminator Eye"/>
 </p>
 
 <h3 align="center">💀 Data-Driven | AI-Enhanced | Mission-Ready</h3>
