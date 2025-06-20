@@ -14,27 +14,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=DATA+STREAM+INITIALIZED.;LEARNING+MODE:+ACTIVE.;BUILDING+MODELS+TO+UNDERSTAND+THE+WORLD.;DECODING+PATTERNS+IN+NOISE.;STATISTICS+IS+MY+SUPERPOWER.;SCANNING+FOR+INSIGHTS...+FOUND.;BUILDING+THE+FUTURE,+ONE+SCRIPT+AT+A+TIME." alt="Typing Animation" />
 
-
-
 <p align="center" style="
-  background: linear-gradient(145deg, #0a0a0a, #1a1a1a);
+  background-color: #0a0a0a;
   padding: 30px;
-  border: 2px solid #ff0033;
-  box-shadow:
-    0 0 20px #ff0033,
-    0 0 40px #ff0033,
-    inset 0 0 10px #ff0033;
   border-radius: 20px;
+  box-shadow:
+    0 0 30px #ff0033,
+    inset 0 0 20px #000000;
   max-width: 90%;
   margin: auto;
 ">
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true"
-    width="900"
+    width="1000"
     alt="Terminator Eye"
     style="
       border-radius: 16px;
       filter: brightness(115%) contrast(125%);
-      box-shadow: 0 0 25px rgba(255, 0, 50, 0.6);
+      box-shadow: 0 0 40px rgba(255, 0, 50, 0.5);
     "
   />
 </p>
