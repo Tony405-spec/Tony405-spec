@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Terminator Eye"/>
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="1000" alt="Terminator Eye"/>
 </p>
 
 
