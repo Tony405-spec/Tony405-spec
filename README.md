@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/xT1XGzGcuThcO9Hhck/giphy.gif" width="20" height="20" alt="Red dot" style="vertical-align: middle;"/>
+<img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/glowdot.gif?raw=true" width="14" />
 &nbsp;&nbsp;**SKYNET DATA GRID – Ken_Tony NEURAL CORE ACTIVATED**
+
 
 
 
