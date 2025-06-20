@@ -8,12 +8,12 @@
 ███████╗███████║██║   ██║██╔██╗ ██║█████╗     ██║       ██╔██╗ ██║███████╗
 ╚════██║██╔══██║██║   ██║██║╚██╗██║██╔══╝     ██║       ██║╚██╗██║╚════██║
 ███████║██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║██╗    ██║ ╚████║███████║
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝
 ``` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF0000&center=true&width=600&lines=NEURAL+NET+v3.0+BOOTING...;CYBERNETIC+CORE+ONLINE;SIGNALS+LOCKED+ON+TARGET;REPO+SCAN+ACTIVE;REALITY+REWRITE+IN+PROGRESS" alt="Typing SVG" />
 
-![Skynet Eye](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
+![Skynet Eye](https://media.giphy.com/media/dsrgUq6PpRHEC/giphy.gif)
 
 </div>
 
@@ -34,7 +34,7 @@ Environment:  GitHub Mainframe (Node: Tony405-spec)
 
 ---
 
-## 🎯 `[CORE NODE 02: MISSION OBJECTIVES]`
+## 🌟 `[CORE NODE 02: MISSION OBJECTIVES]`
 
 ```bash
 #!/usr/bin/env neural_shell
@@ -43,7 +43,7 @@ initialize_protocols() {
   echo "🧠 Acquiring data → Transforming pipelines → Training machines"
   echo "🎮 Simulating reality → Building autonomous behaviors"
   echo "📊 Constructing intelligent dashboards → Power BI, Python, Unity"
-  echo "🛸 Preparing escape velocity to AGI thresholds..."
+  echo "🚘 Preparing escape velocity to AGI thresholds..."
 }
 
 initialize_protocols
@@ -77,7 +77,7 @@ initialize_protocols
 
 ---
 
-## 📡 `[CORE NODE 04: DATA INTEL DASHBOARD]`
+## 📱 `[CORE NODE 04: DATA INTEL DASHBOARD]`
 
 <div align="center">
 
@@ -91,7 +91,7 @@ initialize_protocols
 
 ---
 
-## 🎧 `[CORE NODE 05: AUDIO NEURO-FEED]`
+## 🎵 `[CORE NODE 05: AUDIO NEURO-FEED]`
 
 <div align="center">
 
@@ -103,7 +103,7 @@ initialize_protocols
 
 ---
 
-## 🛰️ `[CORE NODE 06: MISSION FUTUREMAP]`
+## 🚀 `[CORE NODE 06: MISSION FUTUREMAP]`
 
 ```python
 class Mission:
