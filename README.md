@@ -1,5 +1,4 @@
-<img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/glowdot.gif?raw=true" width="14" />
-&nbsp;&nbsp;**SKYNET DATA GRID – Ken_Tony NEURAL CORE ACTIVATED**
+# 🔴 SKYNET DATA GRID - Ken_Tony NEURAL CORE ACTIVATED 
 
 
 
