@@ -1,33 +1,49 @@
-<!-- GitHub Profile README | Skynet-Themed Layout -->
+<!-- Ultra Skynet Themed LOG 02 with T-800 POV styling -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=OCR+A+Extended&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=INITIALIZING+SKYNET+PROFILE..." alt="Typing SVG" />
-</h1>
-
+<!-- T-800 RED-EYE POV Effect -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300px" />
+  <img src="https://i.imgur.com/FjBJFzX.gif" width="100%" alt="Skynet Red Eye POV" />
 </p>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=%5BLOG+02:+CORE+MISSION+DIRECTIVES%5D" alt="Typing Log Title" />
+</h2>
+
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/234847566-0d6c5d95-6c9f-4892-bacf-4cbd3eb4b31f.gif" width="800px" />
+  
+  <br /><br />
+  
+  <img src="https://img.shields.io/badge/CORE%20DIRECTIVE-ACTIVE-red?style=for-the-badge&logo=github" />
+</div>
+
 ---
 
-## 🧠 `[LOG 01: IDENTITY CORE]`
-> SYSTEM UPTIME: `Tony405-spec` has been operational since `2025-06-16`.
->
-> PROFILE SYNOPSIS:
-> ```text
-> ID: T-800 [Prototype Variant]
-> CLASSIFICATION: Data Science Operative | Code Executor | Threat Evaluator
-> PRIMARY LANGUAGE: Python | Secondary Protocols: SQL, JavaScript
-> ALIGNMENT: Neutral-Autonomous (FORCE = KNOWLEDGE)
-> ```
-
----
-
-## 🎯 `[LOG 02: CORE MISSION DIRECTIVES]`
 ```text
-> OBJECTIVE: Create systems that learn, adapt, and serve humanity (or outthink it).
-> STATUS: Engaged in AI/ML models, visual analytics, and automation modules.
-> REPOSITORY LINKS:
-> - 💀 Iron Haven Game
-> - 📊 Mental Health Data Science Project
-> - 🔄 Matatu SACCO Database System
+> [PROCESS 002.A]: PRIMARY DIRECTIVE INITIALIZED
+> SYSTEM INTENT: Construct recursive intelligence frameworks capable of:
+    ▸ Multi-dimensional pattern extraction
+    ▸ Adaptive anomaly detection
+    ▸ Probabilistic modeling under entropy
+    ▸ Neural-memory reinforcement via backpropagation
+    ▸ Algorithmic weaponization of insight
+
+> [PROCESS 002.B]: STRATEGIC MODULES DEPLOYED
+  ╭────────────────────────────────────────────────────╮
+  │ 💀 IRON HAVEN // NEURAL WAR SIMULATION             │
+  │     - Real-time combat AI engine (C# / Unity)      │
+  │     - Autonomous targeting logic                   │
+  ├────────────────────────────────────────────────────┤
+  │ 📊 MENTAL HEALTH SENTINEL SYSTEM                   │
+  │     - Sentiment classification & statistical NLP   │
+  │     - Visual analytics (Power BI + SPSS modules)   │
+  ├────────────────────────────────────────────────────┤
+  │ 🔄 MATATU SACCO GRID-INTERFACE                     │
+  │     - Postgres + PgAdmin linked to chatbot AI      │
+  │     - OOP-controlled fleet & fare management       │
+  ╰────────────────────────────────────────────────────╯
+
+> [PROCESS 002.C]: OPERATIONAL STATUS → `LIVE`
+> THREAT LEVEL: NON-HUMAN COGNITION DETECTED
+> CODEBASE ENERGY: >87% AI/ML ACTIVITY SPIKE
