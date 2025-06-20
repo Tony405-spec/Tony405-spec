@@ -16,8 +16,8 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="1000" alt="Terminator Eye"/>
+<p align="center" style="background-color:#0a0a0a; padding: 30px; border: 2px solid #ff0000; box-shadow: 0 0 25px #ff0000; border-radius: 20px;">
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="1000" alt="Terminator Eye" style="border-radius: 12px; filter: brightness(110%) contrast(120%);" />
 </p>
 
 
