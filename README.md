@@ -15,6 +15,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=DATA+STREAM+INITIALIZED.;LEARNING+MODE:+ACTIVE.;BUILDING+MODELS+TO+UNDERSTAND+THE+WORLD.;DECODING+PATTERNS+IN+NOISE.;STATISTICS+IS+MY+SUPERPOWER.;SCANNING+FOR+INSIGHTS...+FOUND.;BUILDING+THE+FUTURE,+ONE+SCRIPT+AT+A+TIME." alt="Typing Animation" />
 
 
+
+<p align="center">
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="300" alt="Terminator Eye"/>
+</p>
+
+
 </div>
 
 ---
