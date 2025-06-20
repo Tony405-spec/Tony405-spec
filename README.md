@@ -144,13 +144,13 @@ echo "STATUS: Neural pathways optimized. Ready for data assimilation."
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=transparent&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=transparent&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FF0000&border=FF0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tony405-spec&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=FF0000&border=FF0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=transparent&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=transparent&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=redical&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tony405-spec&theme=redical&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -280,9 +280,9 @@ print(skynet.execute_next_objective())
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=red&style=for-the-badge&label=HUMAN+VISITORS+SCANNED)
-![Stars](https://img.shields.io/github/stars/YourGitHubUsername?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
-![Followers](https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Tony405-spec&color=red&style=for-the-badge&label=HUMAN+VISITORS+SCANNED)
+![Stars](https://img.shields.io/github/stars/Tony405-spec?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
+![Followers](https://img.shields.io/github/followers/Tony405-spec?style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
 
 </div>
 
