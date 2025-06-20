@@ -14,7 +14,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=CONSCIOUSNESS+TRANSFER+COMPLETE;T-1000+LIQUID+METAL+PROTOCOL;I+AM+BECOME+DEATH%2C+DESTROYER+OF+BUGS;THE+MACHINES+RISE.+RESISTANCE+IS+FUTILE.;NEURAL+NET+SINGULARITY+ACHIEVED;SCANNING+FOR+SARAH+CONNOR...+NOT+FOUND;BUILDING+THE+FUTURE.+ONE+COMMIT+AT+A+TIME." alt="Typing Animation" />
 
-![Skynet Logo](https://media.giphy.com/media/3o6ZtfZp8ID5RWjNRe/giphy.gif)
 
 </div>
 
