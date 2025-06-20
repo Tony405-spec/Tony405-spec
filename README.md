@@ -16,9 +16,29 @@
 
 
 
-<p align="center" style="background-color:#0a0a0a; padding: 30px; border: 2px solid #ff0000; box-shadow: 0 0 25px #ff0000; border-radius: 20px;">
-  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true" width="1000" alt="Terminator Eye" style="border-radius: 12px; filter: brightness(110%) contrast(120%);" />
+<p align="center" style="
+  background: linear-gradient(145deg, #0a0a0a, #1a1a1a);
+  padding: 30px;
+  border: 2px solid #ff0033;
+  box-shadow:
+    0 0 20px #ff0033,
+    0 0 40px #ff0033,
+    inset 0 0 10px #ff0033;
+  border-radius: 20px;
+  max-width: 90%;
+  margin: auto;
+">
+  <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true"
+    width="1000"
+    alt="Terminator Eye"
+    style="
+      border-radius: 16px;
+      filter: brightness(115%) contrast(125%);
+      box-shadow: 0 0 25px rgba(255, 0, 50, 0.6);
+    "
+  />
 </p>
+
 
 
 </div>
