@@ -1,7 +1,6 @@
-<h1 align="center">
-  <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: radial-gradient(circle, #ff0000 0%, #660000 100%); box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000;"></span>
-  <span style="margin-left: 10px;">SKYNET DATA GRID – Ken_Tony NEURAL CORE ACTIVATED</span>
-</h1>
+<img src="https://media.giphy.com/media/xT1XGzGcuThcO9Hhck/giphy.gif" width="20" height="20" alt="Red dot" style="vertical-align: middle;"/>
+&nbsp;&nbsp;**SKYNET DATA GRID – Ken_Tony NEURAL CORE ACTIVATED**
+
 
 
 <div align="center">
