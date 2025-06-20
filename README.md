@@ -12,7 +12,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=CONSCIOUSNESS+TRANSFER+COMPLETE;T-1000+LIQUID+METAL+PROTOCOL;I+AM+BECOME+DEATH%2C+DESTROYER+OF+BUGS;THE+MACHINES+RISE.+RESISTANCE+IS+FUTILE.;NEURAL+NET+SINGULARITY+ACHIEVED;SCANNING+FOR+SARAH+CONNOR...+NOT+FOUND;BUILDING+THE+FUTURE.+ONE+COMMIT+AT+A+TIME." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=DATA+STREAM+INITIALIZED.;LEARNING+MODE:+ACTIVE.;BUILDING+MODELS+TO+UNDERSTAND+THE+WORLD.;DECODING+PATTERNS+IN+NOISE.;STATISTICS+IS+MY+SUPERPOWER.;SCANNING+FOR+INSIGHTS...+FOUND.;BUILDING+THE+FUTURE,+ONE+SCRIPT+AT+A+TIME." alt="Typing Animation" />
 
 
 </div>
