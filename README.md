@@ -25,7 +25,7 @@
   margin: auto;
 ">
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true"
-    width="1000"
+    width="900"
     alt="Terminator Eye"
     style="
       border-radius: 16px;
