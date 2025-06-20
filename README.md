@@ -1,4 +1,8 @@
-# 🔴 SKYNET DATA GRID - Ken_Tony NEURAL CORE ACTIVATED 
+<h1 align="center">
+  <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: radial-gradient(circle, #ff0000 0%, #660000 100%); box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000;"></span>
+  <span style="margin-left: 10px;">SKYNET DATA GRID – Ken_Tony NEURAL CORE ACTIVATED</span>
+</h1>
+
 
 <div align="center">
 ```
