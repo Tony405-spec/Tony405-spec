@@ -1,4 +1,4 @@
-# 🔴 SKYNET DEFENSE GRID - Ken_Tony NEURAL CORE ACTIVATED 
+# 🔴 SKYNET DATA GRID - Ken_Tony NEURAL CORE ACTIVATED 
 
 <div align="center">
 ```
