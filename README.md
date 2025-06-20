@@ -1,20 +1,16 @@
-<!-- Ultra Skynet Themed LOG 02 with T-800 POV styling -->
+<!-- Ultra Skynet-Themed LOG 02 with T-800 POV effect (fixed images) -->
 
-<!-- T-800 RED-EYE POV Effect -->
 <p align="center">
-  <img src="https://i.imgur.com/FjBJFzX.gif" width="100%" alt="Skynet Red Eye POV" />
+  <img src="https://media.tenor.com/H7Q9N4RsLMgAAAAC/terminator-eye.gif" width="200px" alt="T-800 Red Eye" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=%5BLOG+02:+CORE+MISSION+DIRECTIVES%5D" alt="Typing Log Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=OCR+A+Extended&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=%5BLOG+02:+CORE+MISSION+DIRECTIVES%5D" alt="Typing SVG" />
 </h2>
 
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/234847566-0d6c5d95-6c9f-4892-bacf-4cbd3eb4b31f.gif" width="800px" />
-  
+  <img src="https://media.tenor.com/WVjRY0mCoWsAAAAC/target-scan-terminator.gif" width="700px" />
   <br /><br />
-  
   <img src="https://img.shields.io/badge/CORE%20DIRECTIVE-ACTIVE-red?style=for-the-badge&logo=github" />
 </div>
 
