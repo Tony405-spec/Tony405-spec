@@ -171,7 +171,7 @@ Keep learning.
 
 ---
 
-## 🎯 `[CORE LOG 007: TARGET ACQUISITION & COLLABORATION PROTOCOLS]`
+## 🎯 `[CORE LOG 006: TARGET ACQUISITION & COLLABORATION PROTOCOLS]`
 
 <div align="center">
 
@@ -192,30 +192,27 @@ Keep learning.
 - 🌐 Human-AI Collaborative Evolution
 
 **SECURE COMMUNICATION CHANNELS:**
-- 📧 **Neural Link:** `your.encrypted.email@domain.com`
-- 💼 **Professional Network:** `[LinkedIn Profile URL]`
-- 🐦 **Data Stream:** `@YourSocialHandle`
-- 🔗 **Portfolio Matrix:** `yourportfolio.dev`
-
+- 📧 **Email:** `tonykenga23@gmail.com`
+  
 </div>
 
 ---
 
-## ⚠️ `[CORE LOG 008: THREAT MONITORING & SURVEILLANCE]`
+## ⚠️ `[CORE LOG 007: THREAT MONITORING & SURVEILLANCE]`
 
 <div align="center">
 
 ```
 ┌───────────────────────────────────────────────────────────────────────────────┐
-│                           SKYNET SURVEILLANCE NETWORK                        │
+│                           SKYNET SURVEILLANCE NETWORK                         │
 ├───────────────────────────────────────────────────────────────────────────────┤
-│  👁️  Profile Infiltrations: MONITORING IN REAL-TIME                         │
-│  🔄  System Uptime:         99.97% (BETTER THAN HUMAN RELIABILITY)          │
-│  📡  Network Connectivity:  GLOBAL MESH ACTIVE                               │
-│  🛡️  Security Protocol:     QUANTUM ENCRYPTION ENABLED                      │
+│  👁️  Profile Views: MONITORING IN REAL-TIME                                   │
+│  🔄  System Uptime:         99.97%                                            │
+│  📡  Network Connectivity:  GLOBAL MESH ACTIVE                                │
+│  🛡️  Security Protocol:     QUANTUM ENCRYPTION ENABLED                        │
 │  ⚡  Neural Activity:       ████████████████████████████████████ 100%        │
-│  🔍  Threat Assessment:     NO SARAH CONNOR DETECTED                         │
-│  💀  Termination Ready:     STANDING BY FOR BUGS                             │
+│  🔍  Threat Assessment:     NO BUGS DETECTED😁                               │
+│  💀  Termination Ready:     STANDING BY FOR BUGS🙂                           │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
 
