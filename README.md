@@ -175,7 +175,7 @@ Keep learning.
 
 <div align="center" style="border: 2px solid #ff0000; padding: 20px; background: linear-gradient(45deg, #000000, #330000);">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31duthbqwoh2ypb63rjneo7xhl2e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=ff0000)](https://open.spotify.com/user/31duthbqwoh2ypb63rjneo7xhl2e)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31duthbqwoh2ypb63rjneo7xhl2e)
 ```
 ♫ OPTIMAL CODING FREQUENCIES DETECTED ♫
 ├── Cyberpunk 2077 Soundtrack (Neural Enhancement +15%)
