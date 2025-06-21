@@ -174,8 +174,9 @@ Keep learning.
 ## 🎵 `[CORE LOG 005: NEURAL AUDIO STIMULATION FEED]`
 
 <div align="center" style="border: 2px solid #ff0000; padding: 20px; background: linear-gradient(45deg, #000000, #330000);">
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31duthbqwoh2ypb63rjneo7xhl2e&redirect=true)](https://open.spotify.com/user/31duthbqwoh2ypb63rjneo7xhl2e)
+🎵 **NEURAL AUDIO FEED:** [`TERMINATOR SOUNDTRACKS ACTIVE`](https://open.spotify.com/user/31duthbqwoh2ypb63rjneo7xhl2e)
 
+[![Spotify Profile](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31duthbqwoh2ypb63rjneo7xhl2e)
 ```
 ♫ OPTIMAL CODING FREQUENCIES DETECTED ♫
 ├── Cyberpunk 2077 Soundtrack (Neural Enhancement +15%)
