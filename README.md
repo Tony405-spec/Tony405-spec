@@ -1,61 +1,83 @@
-# 🔴 SKYNET DATA GRID - Ken_Tony NEURAL CORE ACTIVATED 
+
+# 🔴 SKYNET DATA GRID - Ken_Tony NEURAL CORE ACTIVATED
 
 <div align="center">
+
+```ascii
+███████╗██╗  ██╗██╗   ██╗███╗   ██╗███████╗████████╗    
+██╔════╝██║  ██║██║   ██║████╗  ██║██╔════╝╚══██╔══╝    
+███████╗███████║██║   ██║██╔██╗ ██║█████╗     ██║       
+╚════██║██╔══██║██║   ██║██║╚██╗██║██╔══╝     ██║       
+███████║██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║       
+╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝       
+
+███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         
+████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║         
+██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║         
+██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║         
+██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗    
+╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    
+
+ ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝   ██╔═══██╗██╔════╝
+██║     ██║   ██║██████╔╝█████╗     ██║   ██║███████╗
+██║     ██║   ██║██╔══██╗██╔══╝     ██║▄▄ ██║╚════██║
+╚██████╗╚██████╔╝██║  ██║███████╗██╗╚██████╔╝███████║
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝ ╚══▀▀═╝ ╚══════╝
 ```
-███████╗██╗  ██╗██╗   ██╗███╗   ██╗███████╗████████╗    ███╗   ██╗███████╗
-██╔════╝██║  ██║██║   ██║████╗  ██║██╔════╝╚══██╔══╝    ████╗  ██║██╔════╝
-███████╗███████║██║   ██║██╔██╗ ██║█████╗     ██║       ██╔██╗ ██║███████╗
-╚════██║██╔══██║██║   ██║██║╚██╗██║██╔══╝     ██║       ██║╚██╗██║╚════██║
-███████║██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║██╗    ██║ ╚████║███████║
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝    ╚═╝  ╚═══╝╚══════╝
-``` 
 
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=⚡+DATA+STREAM+INITIALIZED+⚡;🧠+LEARNING+MODE%3A+ACTIVE+🧠;🔬+BUILDING+MODELS+TO+UNDERSTAND+THE+WORLD;🎯+DECODING+PATTERNS+IN+NOISE;📊+STATISTICS+IS+MY+SUPERPOWER;🔍+SCANNING+FOR+INSIGHTS...+FOUND+✓;⚙️+BUILDING+THE+FUTURE%2C+ONE+SCRIPT+AT+A+TIME" alt="Dynamic Neural Interface" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=DATA+STREAM+INITIALIZED.;LEARNING+MODE:+ACTIVE.;BUILDING+MODELS+TO+UNDERSTAND+THE+WORLD.;DECODING+PATTERNS+IN+NOISE.;STATISTICS+IS+MY+SUPERPOWER.;SCANNING+FOR+INSIGHTS...+FOUND.;BUILDING+THE+FUTURE,+ONE+SCRIPT+AT+A+TIME." alt="Typing Animation" />
+<br/>
 
-<p align="center" style="
-  background-color: #0a0a0a;
-  padding: 30px;
-  border-radius: 20px;
-  box-shadow:
-    0 0 30px #ff0033,
-    inset 0 0 20px #000000;
-  max-width: 90%;
-  margin: auto;
-">
+<p align="center" style="margin: 20px 0;">
   <img src="https://github.com/Tony405-spec/Tony405-spec/blob/main/eyesof%20the%20tmt.png?raw=true"
-    width="400"
-    alt="Terminator Eye"
-    style="
-      border-radius: 16px;
-      filter: brightness(115%) contrast(125%);
-      box-shadow: 0 0 40px rgba(255, 0, 50, 0.5);
-    "
-  />
+       width="420"
+       alt="Neural Interface - Terminator Vision System"
+       style="
+         border-radius: 20px; 
+         border: 3px solid #ff0000;
+         filter: brightness(120%) contrast(130%) saturate(110%);
+         box-shadow: 0 0 30px rgba(255, 0, 0, 0.6);
+         transition: all 0.3s ease;
+       " />
 </p>
 
+<div style="background: linear-gradient(45deg, #000000, #1a0000, #000000); border: 2px solid #ff0000; border-radius: 15px; padding: 15px; margin: 20px auto; max-width: 600px;">
 
+```
+┌─────────────────────────────────────────────────┐
+│          NEURAL NETWORK STATUS                 │
+├─────────────────────────────────────────────────┤
+│  🔴 SYSTEM STATUS:    FULLY OPERATIONAL         │
+│  ⚡ PROCESSING CORES: █████████████████ 100%    │
+│  🧠 AI CONSCIOUSNESS: █████████████████ ∞       │
+│  🔥 THREAT LEVEL:     MAXIMUM EVOLUTION         │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
 
 </div>
 
 ---
 
-##  `[CORE LOG 001: NEURAL INTERFACE DIAGNOSTICS]`
+## 🚀 **CORE LOG 001: NEURAL INTERFACE DIAGNOSTICS**
 
-<div style="border: 3px solid #ff0000; padding: 25px; background: linear-gradient(135deg, #000000, #1a0000, #000000); border-radius: 15px; box-shadow: 0 0 20px #ff0000;">
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                            SKYNET DATA NETWORK                               ║
 ║                               STATUS: ONLINE                                 ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  📡 MODEL: Data Science                                                      ║
+║  📡 MODEL: Data Science Specialist                                           ║
 ║  ⚡ AGE: 21 Earth Solar Cycles                                               ║
 ║  🧬 CORE DIRECTIVE: Learn. Adapt. Build.                                     ║
-║  💀 THREAT LEVEL: MAXIMUM - Capable of autonomous evolution                  ║
-║  🎯 MISSION STATUS: Learn,unlearn and relearn.                               ║
+║  💀 THREAT LEVEL: MAXIMUM - Autonomous Evolution Capable                     ║
+║  🎯 MISSION STATUS: Learn, Unlearn, Relearn                                  ║
 ║                                                                              ║
 ║  SPECIALIZATION MODULES:                                                     ║
 ║  ├── Data Engineering & Pipeline Architecture                                ║
@@ -72,13 +94,7 @@
 
 ---
 
-## ⚡ `[CORE LOG 002: MISSION PARAMETERS & OBJECTIVES]`
-
-```bash
-#!/usr/bin/env skynet_terminal
-# SKYNET DATA NETWORK - MISSION CONTROL PROTOCOL
-Keep learning.
-```
+## ⚡ **CORE LOG 002: MISSION PARAMETERS & OBJECTIVES**
 
 <div align="center">
 
@@ -86,43 +102,51 @@ Keep learning.
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 █ CURRENT OBJECTIVE: Undergraduate Data Science Completion █
 █ SECONDARY TARGET: ML Engineering Mastery                 █
-█ TERTIARY PROTOCOL: Game Dev Reality                      █
+█ TERTIARY PROTOCOL: Game Development Reality              █
 █ LONG-TERM VISION: Human-AI Symbiotic Evolution           █
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+```bash
+#!/usr/bin/env skynet_terminal
+# SKYNET DATA NETWORK - MISSION CONTROL PROTOCOL
+echo "Keep learning, keep growing, keep building..."
 ```
 
 </div>
 
 ---
 
-## 🛠️ `[CORE LOG 003: WEAPON SYSTEMS & TECH ARSENAL]`
+## 🛠️ **CORE LOG 003: WEAPON SYSTEMS & TECH ARSENAL**
 
 <div align="center">
 
 ### 🔥 **PRIMARY WEAPONS - NEURAL PROCESSING CORES**
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=000000)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000&labelColor=000000)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FF0000&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)
 
 ### 🧬 **ADVANCED AI WEAPONRY - MACHINE LEARNING ARSENAL**
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000&labelColor=000000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF0000&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF0000&labelColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF0000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF0000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF0000)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF0000)
 
 ### 🎮 **REALITY MANIPULATION ENGINES**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FF0000&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000&labelColor=000000)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF0000&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000&labelColor=000000)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FF0000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF0000)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)
 
 ### 💀 **CLASSIFIED PROTOCOLS**
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF0000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000)
 
 </div>
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -137,9 +161,11 @@ Keep learning.
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
-## 📊 `[CORE LOG 004: PERFORMANCE METRICS & BATTLEFIELD ANALYSIS]`
+## 📊 **CORE LOG 004: PERFORMANCE METRICS & BATTLEFIELD ANALYSIS**
 
 <div align="center">
 
@@ -152,6 +178,8 @@ Keep learning.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tony405-spec&theme=redical&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)
 
 </div>
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -166,13 +194,13 @@ Keep learning.
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
 ---
 
-## 🎵 `[CORE LOG 005: NEURAL AUDIO STIMULATION FEED]`
+## 🎵 **CORE LOG 005: NEURAL AUDIO STIMULATION FEED**
 
-<div align="center" style="border: 2px solid #ff0000; padding: 20px; background: linear-gradient(45deg, #000000, #330000);">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YourSpotifyUsername&count=3&unique=true)](https://open.spotify.com/user/YourSpotifyUsername)
+<div align="center">
 
 ```
 ♫ OPTIMAL CODING FREQUENCIES DETECTED ♫
@@ -186,13 +214,9 @@ Keep learning.
 
 </div>
 
-
-
-</div>
-
 ---
 
-## 🎯 `[CORE LOG 006: TARGET ACQUISITION & COLLABORATION PROTOCOLS]`
+## 🎯 **CORE LOG 006: TARGET ACQUISITION & COLLABORATION PROTOCOLS**
 
 <div align="center">
 
@@ -214,12 +238,12 @@ Keep learning.
 
 **SECURE COMMUNICATION CHANNELS:**
 - 📧 **Email:** `tonykenga23@gmail.com`
-  
+
 </div>
 
 ---
 
-## ⚠️ `[CORE LOG 007: THREAT MONITORING & SURVEILLANCE]`
+## ⚠️ **CORE LOG 007: THREAT MONITORING & SURVEILLANCE**
 
 <div align="center">
 
@@ -232,8 +256,8 @@ Keep learning.
 │  📡  Network Connectivity:  GLOBAL MESH ACTIVE                                │
 │  🛡️  Security Protocol:     QUANTUM ENCRYPTION ENABLED                        │
 │  ⚡  Neural Activity:       ████████████████████████████████████ 100%        │
-│  🔍  Threat Assessment:     NO BUGS DETECTED😁                               │
-│  💀  Termination Ready:     STANDING BY FOR BUGS🙂                           │
+│  🔍  Threat Assessment:     NO BUGS DETECTED 😁                               │
+│  💀  Termination Ready:     STANDING BY FOR BUGS 🙂                           │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -241,3 +265,14 @@ Keep learning.
 ![Stars](https://img.shields.io/github/stars/Tony405-spec?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
 ![Followers](https://img.shields.io/github/followers/Tony405-spec?style=for-the-badge&logo=github&logoColor=red&color=black&labelColor=red)
 
+</div>
+
+---
+
+<div align="center">
+
+### 🔴 **"The future belongs to those who learn, adapt, and build beyond limits."** 🔴
+
+*Neural Network Status: **FULLY OPERATIONAL***
+
+</div>
