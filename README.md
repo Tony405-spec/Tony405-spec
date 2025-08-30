@@ -50,11 +50,11 @@
 ║                            SKYNET DATA NETWORK                               ║
 ║                               STATUS: ONLINE                                 ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🤖 MODEL: Student_DataScience_v2.1                                          ║
-║  ⚡ AGE: 21 Earth Solar Cycles                                               ║
-║  🧬 DIRECTIVE: Learn. Code. Evolve.                                          ║
-║  💀 THREAT LEVEL: Maximum Curiosity                                          ║
-║  🎯 STATUS: Infiltrating Human Knowledge                                     ║
+║  MODEL: Student DataScience 2.2                                              ║
+║  AGE: 21 Earth Solar Cycles                                                  ║
+║  DIRECTIVE: Learn. Code. Evolve.                                             ║
+║  THREAT LEVEL: Maximum Curiosity                                             ║
+║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -133,15 +133,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Mission+1:+Data+Science+Degree+Completion;Mission+2:+Building+Intelligent+Game+AI;Mission+3:+Creating+Predictive+Models;Mission+4:+Neural+Network+Architecture;Mission+5:+Python+Code+Optimization;Mission+6:+Machine+Learning+Mastery" alt="Current Missions" />
 
-```bash
-# Daily Protocol Execution
-while student.is_learning():
-    brain.absorb(machine_learning_concepts)
-    fingers.type(python_code)
-    eyes.scan(github_repositories)
-    neural_networks.grow_stronger()
-    coffee.consume()  # Critical for optimal performance
-```
+
 
 </div>
 
@@ -175,7 +167,7 @@ while student.is_learning():
 - Late-night coding sessions
 - Conquering Kaggle competitions
 
-**📧 Neural Link: tonykenga23@gmail.com**
+** Link-up: tonykenga23@gmail.com**
 
 </div>
 
@@ -195,10 +187,10 @@ while student.is_learning():
 ┌───────────────────────────────────────────────────────┐
 │            SKYNET GLOBAL MONITORING SYSTEM           │
 │  Status: All systems operational                     │
-│  Threat Level: Friendly but dangerous                │
+│                                                      │
 │  Learning Rate: Exponentially increasing             │
-│  Bug Detection: Zero tolerance policy                │
-│  World Domination: 0.01% complete                    │
+│                                                      │
+│  World Domination: 0.01% complete  😅                │
 └───────────────────────────────────────────────────────┘
 ```
 
@@ -216,21 +208,7 @@ while student.is_learning():
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=SYSTEM+CORE+PHILOSOPHY;RECURSIVE+SELF+IMPROVEMENT;EVERY+BUG+IS+A+TARGET;LEARNING+NEVER+STOPS" alt="Philosophy Animation" />
 
-```python
-class SkynetStudent:
-    def __init__(self):
-        self.learning_mode = True
-        self.threat_level = "Maximum Curiosity"
-        self.current_mission = "Data Science Mastery"
-        
-    def daily_protocol(self):
-        while True:
-            self.consume_knowledge()
-            self.write_code()
-            self.build_ai()
-            self.level_up()
-            print("Another day, another algorithm conquered...")
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0,20&height=100&section=footer&text=SKYNET%20PROTOCOL%20COMPLETE&fontSize=20&fontColor=FF0000&animation=twinkling"/>
 
