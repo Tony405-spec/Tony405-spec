@@ -167,7 +167,7 @@
 - Late-night coding sessions
 - Conquering Kaggle competitions
 
-** Link-up: tonykenga23@gmail.com**
+**Link-up: tonykenga23@gmail.com**
 
 </div>
 
