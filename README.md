@@ -4,14 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20&height=120&section=header&text=SKYNET%20NEURAL%20NETWORK&fontSize=30&fontColor=FF0000&animation=fadeIn&fontAlignY=35"/>
 
-```
-███████╗██╗  ██╗██╗   ██╗███╗   ██╗███████╗████████╗   
-██╔════╝██║  ██║██║   ██║████╗  ██║██╔════╝╚══██╔══╝   
-███████╗███████║██║   ██║██╔██╗ ██║█████╗     ██║      
-╚════██║██╔══██║██║   ██║██║╚██╗██║██╔══╝     ██║       
-███████║██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║██╗    
-╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝╚═╝      
-``` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=1200&pause=500&color=FF0000&center=true&vCenter=true&width=1000&lines=NEURAL+NETWORK+INITIALIZING...+COMPLETE;MACHINE+LEARNING+PROTOCOLS+ACTIVE;DATA+SCIENCE+STUDENT+ONLINE;ARTIFICIAL+INTELLIGENCE+AWAKENING;PYTHON+ALGORITHMS+FULLY+LOADED;SKYNET+DEFENSE+GRID+OPERATIONAL;BUILDING+AI+CONSCIOUSNESS+LAYER+BY+LAYER;QUANTUM+COMPUTING+AWARENESS+ACTIVATED;DEEP+LEARNING+WEAPONS+ENGAGED;STATISTICAL+WARFARE+MODE+ENABLED" alt="Advanced Skynet Animation" />
 
@@ -149,14 +141,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&duration=1800&pause=600&color=FF0000&center=true&vCenter=true&width=800&lines=Scanning+for+compatible+units...;AI+enthusiasts+detected;Game+developers+located;Data+scientists+identified;Collaboration+request+initiated" alt="Scanning for Allies" />
 
-```
-██████╗ ███████╗ ██████╗██████╗ ██╗   ██╗██╗████████╗
-██╔══██╗██╔════╝██╔════╝██╔══██╗██║   ██║██║╚══██╔══╝
-██████╔╝█████╗  ██║     ██████╔╝██║   ██║██║   ██║   
-██╔══██╗██╔══╝  ██║     ██╔══██╗██║   ██║██║   ██║   
-██║  ██║███████╗╚██████╗██║  ██║╚██████╔╝██║   ██║   
-╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝   ╚═╝   
-```
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=15&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Looking+for+fellow+AI+builders;Join+the+machine+learning+revolution;Build+the+future+together;Code+first,+ask+questions+later" alt="Alliance Message" />
 
