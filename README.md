@@ -21,7 +21,7 @@
   />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Age:+21+Solar+Cycles;Mission:+AI+World+Domination;Status:+Learning+%26+Building" alt="Profile Info Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=400&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Age:+21+Solar+Cycles;Mission:+Learn+Un-learn+Re-learn;Status:+Learning+%26+Building" alt="Profile Info Animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12&height=4&section=divider"/>
 
