@@ -170,12 +170,12 @@
 
 ```
 ┌───────────────────────────────────────────────────────┐
-│            SKYNET GLOBAL MONITORING SYSTEM           │
-│  Status: All systems operational                     │
-│                                                      │
-│  Learning Rate: Exponentially increasing             │
-│                                                      │
-│  World Domination: 0.01% complete  😅                │
+│            SKYNET GLOBAL MONITORING SYSTEM            │
+│  Status: All systems operational                      │
+│                                                       │
+│  Learning Rate: Exponentially increasing              │
+│                                                       │
+│                                                       │
 └───────────────────────────────────────────────────────┘
 ```
 
