@@ -41,8 +41,8 @@ I am a dedicated Data Science student with a strong academic foundation and hand
 
 ##  `GitHub Stats`
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=default)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=dark)
 
 ---
 
