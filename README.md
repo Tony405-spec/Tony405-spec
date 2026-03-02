@@ -38,14 +38,29 @@ I am a dedicated Data Science student with a strong academic foundation and hand
 *   Build a long-term career as a proficient and ethical data science professional.
 
 ---
-
 ## 📊 GitHub Stats
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=dark)
+<!-- Custom Stats for New Profile -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tony405-spec&color=blue)
+  
+  ### 🚀 Just Getting Started!
+  
+  I'm actively building my GitHub presence. 
+  
+  **Check back soon for:**
+  - 📊 Data Science projects
+  - 🐍 Python notebooks
+  - 🤖 Machine learning models
+  - 📈 Data visualizations
+  
+</div>
+
+<!-- These will start working once you have public repos -->
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=dark)
-
----
 
 ## 📫 Connect With Me
 
