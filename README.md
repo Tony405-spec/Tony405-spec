@@ -1,27 +1,27 @@
-# Hi there, I'm **`Tony Kenga`**
+# Hi there, I'm Tony Kenga
 
 **Junior Year Data Science Student @ KCA University | Aspiring Data Scientist | Machine Learning & Analytics Enthusiast**
 
 ---
 
-##  `Professional Summary`
+## 📄 Professional Summary
 
 I am a dedicated Data Science student with a strong academic foundation and hands-on project experience in data analysis, machine learning, and statistical modeling. I am actively seeking internships and collaborative opportunities to apply my technical skills to real-world business challenges, contribute to impactful data-driven solutions, and accelerate my professional growth in a corporate environment.
 
 ---
 
-##  `Technical Skills`
+## 🛠️ Technical Skills
 
-*   **`Programming & Data Analysis:`** Python, Pandas, NumPy
-*   **`Data Visualization:`** Matplotlib, Seaborn
-*   **`Machine Learning:`** Scikit-learn (Regression, Classification, Clustering, Model Evaluation)
-*   **`Databases & Querying:`** SQL
-*   **`Tools & Platforms:`** Git, GitHub, Jupyter Notebooks
-*   **`Core Data Science Processes:`** Data Cleaning & Wrangling, Exploratory Data Analysis (EDA), Feature Engineering
+*   **Programming & Data Analysis:** Python, Pandas, NumPy
+*   **Data Visualization:** Matplotlib, Seaborn
+*   **Machine Learning:** Scikit-learn (Regression, Classification, Clustering, Model Evaluation)
+*   **Databases & Querying:** SQL
+*   **Tools & Platforms:** Git, GitHub, Jupyter Notebooks
+*   **Core Data Science Processes:** Data Cleaning & Wrangling, Exploratory Data Analysis (EDA), Feature Engineering
 
 ---
 
-##  `Currently Working On`
+## 🔭 Currently Working On
 
 *   Building a robust portfolio of end-to-end data science projects on Kaggle.
 *   Deepening my understanding of advanced machine learning algorithms and model optimization techniques.
@@ -30,7 +30,7 @@ I am a dedicated Data Science student with a strong academic foundation and hand
 
 ---
 
-## `Career Goals`
+## 🎯 Career Goals
 
 *   Secure a **Data Science or Data Analyst internship** for 2025 to gain hands-on industry experience.
 *   Contribute to a team that leverages data to drive strategic decision-making and product innovation.
@@ -39,7 +39,7 @@ I am a dedicated Data Science student with a strong academic foundation and hand
 
 ---
 
-##  `GitHub Stats`
+## 📊 GitHub Stats
 
 ![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=dark)
 
@@ -47,7 +47,7 @@ I am a dedicated Data Science student with a strong academic foundation and hand
 
 ---
 
-## `Connect With Me`
+## 📫 Connect With Me
 
 I'm always open to discussing data science, opportunities, and collaboration.
 
@@ -57,4 +57,3 @@ I'm always open to discussing data science, opportunities, and collaboration.
 ---
 
 > **"Transform data into insight, and insight into impact."**
-```
