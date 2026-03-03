@@ -51,10 +51,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tony405-spec&color=blue)
 
-![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=dark&cache_seconds=1800)
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony405-spec&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact)
 </div>
 
 ---
