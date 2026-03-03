@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats(my work is mostly in pivate and internal repos)
+## 📊 GitHub Stats(my work is mostly in private and internal repos)
 
 <div align="center">
 
