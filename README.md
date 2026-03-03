@@ -51,13 +51,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tony405-spec&color=blue)
 
-
-## 📊 GitHub Stats
-
-![Tony's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tony405-spec&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tony405-spec&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📌 Featured Projects (Coming Soon)
