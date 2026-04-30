@@ -13,7 +13,9 @@
   <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tony405-spec&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tony405-spec&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tony405-spec&icon=10&color=1)](https://visitcount.itsvg.in)
