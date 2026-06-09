@@ -6,7 +6,7 @@
 
 I'm a final-year Data Science student at a KCA university, building real projects across machine learning, data visualization, and software engineering. I work with a team of six through **[Skynet DataGrid Labs](https://github.com/skynet-datagrid-labs)**, where we build production-grade ML pipelines and BI dashboards as a senior-year capstone lab.
 
-On the side, I design and sell Tableau dashboard templates targeting Kenyan businesses — you can browse them at the store below.
+On the side, I design and sell Tableau dashboard templates targeting Kenyan businesses, you can browse them at the store below.
 
 *Open to internships, collaborations, and freelance data work.*
 
@@ -20,7 +20,7 @@ On the side, I design and sell Tableau dashboard templates targeting Kenyan busi
 
 ## `Tableau Dashboard Templates`
 
-I build and sell ready-to-use Tableau dashboards for businesses — primarily focused on Kenyan FMCG sales, KPI tracking, and county-level analysis. Available through my store:
+I build and sell ready-to-use Tableau dashboards for businesses, primarily focused on Kenyan FMCG sales, KPI tracking, and county-level analysis. Available through my store:
 
 <p align="center">
   <a href="https://sites.google.com/view/kengadashboardtemplates">
