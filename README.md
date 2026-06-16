@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a final-year Data Science student at a KCA university, building real projects across machine learning, data visualization, and software engineering. I work with a team of fifteen through **[Skynet DataGrid Labs](https://github.com/skynet-datagrid-labs)**, where we build production-grade ML pipelines and BI dashboards as a senior-year capstone lab.
+I'm a final-year Data Science student at a KCA university, building real projects across machine learning, data visualization, and software engineering. I work with a team of fifteen through **[Skynet DataGrid Labs](https://github.com/skynet-datagrid-labs)**, where we practice building production-grade ML pipelines and BI dashboards as a senior-year capstone lab.
 
 On the side, I design and sell Tableau dashboard templates targeting Kenyan businesses, you can browse them at the store below.
 
