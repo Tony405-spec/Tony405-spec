@@ -61,7 +61,7 @@ I build and sell ready-to-use Tableau dashboards for businesses, primarily focus
 ## `GitHub Stats`
 
 <p align="center">
-  <img width="495" src="https://github-readme-stats.shion.dev/api?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="495" src="https://github-readme-stats.shion.dev/api?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=true&count_private=true">
   <br/>
   <img width="495" src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=rose&hide_border=false">
   <br/>
