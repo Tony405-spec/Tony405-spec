@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a final-year Data Science student at a KCA university, building real projects across machine learning, data visualization, and software engineering. I work with a team of fifteen through **[Skynet DataGrid Labs](https://github.com/skynet-datagrid-labs)**, where we practice building production-grade ML pipelines and BI dashboards as a senior-year capstone lab.
+I'm a final-year Data Science student at KCA University, building real projects across machine learning, data visualization, and software engineering. I work with a team of fifteen through **[Skynet DataGrid Labs](https://github.com/skynet-datagrid-labs)**, where we practice building production-grade ML pipelines and BI dashboards as a senior-year capstone lab.
 
 On the side, I design and sell Tableau dashboard templates targeting Kenyan businesses, you can browse them at the store below.
 
@@ -15,6 +15,26 @@ On the side, I design and sell Tableau dashboard templates targeting Kenyan busi
   <a href="https://sites.google.com/view/tonykenga/home"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://sites.google.com/view/kengadashboardtemplates"><img src="https://img.shields.io/badge/Dashboard%20Templates-FF0000?style=for-the-badge&logo=tableau&logoColor=white" alt="Dashboard Templates Store" /></a>
 </p>
+
+---
+
+## `Current Focus`
+
+- Building and maintaining learning-focused repositories across ML, geospatial analysis, time-series forecasting, Streamlit apps, Docker workflows, and notebook-based data science.
+- Improving repository quality through legitimate issues, scoped pull requests, tests, documentation, security notes, data dictionaries, and reproducibility checks.
+- Turning student projects into reviewable open-source-style projects with clearer setup paths and safer contribution workflows.
+
+## `Open-Source Maintenance Snapshot`
+
+Recent repository-quality work includes:
+
+| Area | Recent work |
+|:---|:---|
+| **Issues & PRs** | 100+ actionable issues created and 50+ scoped PRs opened across portfolio and learning repos |
+| **Testing** | Added pytest coverage, notebook structure validators, CSV validators, and schema checks |
+| **Documentation** | Added README quick starts, model cards, data dictionaries, setup guides, and privacy/security docs |
+| **DevOps & Hygiene** | Added `.gitignore` rules, dependency manifests, generated-artifact cleanup, and GitHub templates |
+| **Data Science Quality** | Added model limitations, generated-data caveats, data contracts, and responsible-use notes |
 
 ---
 
@@ -61,12 +81,12 @@ I build and sell ready-to-use Tableau dashboards for businesses, primarily focus
 ## `GitHub Stats`
 
 <p align="center">
-   <img width="495" src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=rose&hide_border=false">
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Tony405-spec&theme=rose&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="Tony405-spec GitHub stats" />
   <br/>
-  <img width="495" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img width="495" src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=rose&hide_border=false" alt="Tony405-spec GitHub streak" />
+  <br/>
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Tony405-spec top languages" />
 </p>
-
-
 
 <p align="center">
   <a href="https://sites.google.com/view/kengadashboardtemplates">Dashboard Templates</a> ·
@@ -75,5 +95,3 @@ I build and sell ready-to-use Tableau dashboards for businesses, primarily focus
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Tony405-spec&color=blue&style=flat-square" alt="Profile views" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
