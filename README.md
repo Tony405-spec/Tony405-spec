@@ -78,20 +78,60 @@ I build and sell ready-to-use Tableau dashboards for businesses, primarily focus
 
 ---
 
-## `GitHub Stats`
+## `📊 GitHub Stats`
 
-<p align="center">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Tony405-spec&theme=rose&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="Tony405-spec GitHub stats" />
-  <br/>
-  <img width="495" src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=rose&hide_border=false" alt="Tony405-spec GitHub streak" />
-  <br/>
-  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Tony405-spec top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://sites.google.com/view/kengadashboardtemplates">Dashboard Templates</a> ·
-  <a href="https://sites.google.com/view/tonykenga/home">Portfolio</a> ·
-  <a href="mailto:tonykenga48@gmail.com">Email</a>
+### 📈 Contribution Statistics
+
+| Metric | Value |
+|:-------|:------|
+| **Total Commits** | ![](https://img.shields.io/badge/2026-500%2B-brightgreen?style=flat-square&logo=github) |
+| **Pull Requests** | ![](https://img.shields.io/badge/PRs-50%2B-blue?style=flat-square&logo=github) |
+| **Issues Created** | ![](https://img.shields.io/badge/Issues-100%2B-purple?style=flat-square&logo=github) |
+| **Repositories** | ![](https://img.shields.io/badge/Public%20Repos-30%2B-orange?style=flat-square&logo=github) |
+| **Stars Earned** | ![](https://img.shields.io/badge/Stars-15%2B-yellow?style=flat-square&logo=github) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Tony405-spec&theme=rose&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Tony405-spec&color=blue&style=flat-square" alt="Profile views" />
-</p>
+  <img width="495" src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=rose&hide_border=false&fire=FF6B6B&ring=FF6B6B" alt="GitHub Streak" />
+  <br/><br/>
+  <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony405-spec&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 🏆 Recent Achievements
+
+| Achievement | Status |
+|:------------|:-------|
+| **Contribution Graph** | ![](https://img.shields.io/badge/Active-Contributor-green?style=flat-square) |
+| **PR Reviewer** | ![](https://img.shields.io/badge/Reviewer-Active-blue?style=flat-square) |
+| **Issue Champion** | ![](https://img.shields.io/badge/Issues-100%2B-important?style=flat-square) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 🔗 Quick Links
+
+[![Dashboard Templates](https://img.shields.io/badge/Dashboard_Templates-FF0000?style=for-the-badge&logo=tableau&logoColor=white)](https://sites.google.com/view/kengadashboardtemplates)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/tonykenga/home)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonykenga48@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonykenga)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tony405-spec&color=blue&style=for-the-badge&label=Profile+Views)
+[![Last Updated](https://img.shields.io/github/last-commit/Tony405-spec/Tony405-spec?style=for-the-badge&label=Last+Updated)](https://github.com/Tony405-spec/Tony405-spec)
+
+</div>
