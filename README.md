@@ -53,7 +53,7 @@
 ---
 
 
-
+ <p align="center"> <img src="./profile-trophy.svg" /> </p>
 
 ### Contribution Activity
 
