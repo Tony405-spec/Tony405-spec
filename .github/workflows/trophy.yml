@@ -18,12 +18,12 @@ jobs:
       - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Tony405-spec
-          output_path: profile-trophy.svg
+          file: profile-trophy.svg
           theme: onedark
           no-frame: true
-          no-bg: true
-          margin-w: 4
-          token: ${{ secrets.GITHUB_TOKEN }}
+          no-background: true
+          margin-width: 4
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - run: |
           git config user.name github-actions
