@@ -46,7 +46,7 @@
 # GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Tony405-spec&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="65%" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=Tony405-spec&theme=dark&hide_border=false" width="65%" /><br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&theme=dark&hide_border=false" width="65%" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tony405-spec&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="65%" />
 </p>
 
