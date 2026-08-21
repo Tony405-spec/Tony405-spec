@@ -10,17 +10,20 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: ryo-ma/github-profile-trophy@main
+      - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Tony405-spec
-          output: profile-trophy.svg
+          output_path: profile-trophy.svg
           theme: onedark
           no-frame: true
           no-bg: true
           margin-w: 4
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - run: |
           git config user.name github-actions
