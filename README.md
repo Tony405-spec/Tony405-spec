@@ -51,20 +51,16 @@ location          Nairobi, Kenya
 **Cloud & Infrastructure** — Azure, Google Cloud, Vercel, Netlify, Git, GitHub Actions
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=E6E6E6&icon_color=950101&text_color=C9C9C9&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&hide_border=true&background=0D0D0D&ring=950101&fire=950101&currStreakLabel=B00000&currStreakNum=E6E6E6&sideNums=C9C9C9&sideLabels=8F8F8F&dates=8F8F8F" height="165" />
+  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FF0000&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=E6E6E6&text_color=C9C9C9&langs_count=6&layout=compact" height="165" />
+  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact" height="165" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tony405-spec&hide_border=true&bg_color=0D0D0D&color=C9C9C9&line=B00000&point=E6E6E6&area=true&area_color=950101" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tony405-spec&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FF0000&area=true&area_color=FF0000" width="97%" />
 </p>
-
 ---
 
 <p align="center"><sub>Nairobi, Kenya</sub></p>
