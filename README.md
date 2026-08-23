@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&height=60&lines=𝕳𝖎+𝖙𝖍𝖊𝖗𝖊%2C+𝕴%27𝖒+☞￣ᴥ￣☞+𝕿𝖔𝖓𝖞+𝕶𝖊𝖓𝖌𝖆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=𝕳𝖎+𝖙𝖍𝖊𝖗𝖊%2C+𝕴%27𝖒+☞￣ᴥ￣☞+𝕿𝖔𝖓𝖞+𝕶𝖊𝖓𝖌𝖆" alt="Typing SVG" />
 </p>
-
 
 
 
