@@ -20,7 +20,7 @@ location          Nairobi, Kenya
 
 ---
 
-### Selected Work
+### `Selected Work`
 
 **TechPulse** — Final-year project. An ML platform that predicts a developer's technology trajectory from skill and activity signals.
 `Python` `scikit-learn` `predictive modeling`
@@ -38,7 +38,7 @@ location          Nairobi, Kenya
 
 ---
 
-### Stack
+### `Stack`
 
 **Languages** — Python, Java, R, C++, C, Scala, TypeScript
 
@@ -51,13 +51,20 @@ location          Nairobi, Kenya
 **Cloud & Infrastructure** — Azure, Google Cloud, Vercel, Netlify, Git, GitHub Actions
 
 ---
+
+### `GitHub Stats`
+
 <p align="center">
-  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FF0000&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000" height="165" />
+  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FF0000&count_private=true" width="400" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000" width="400" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact" height="165" />
+  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact" width="400" height="165" />
 </p>
+
+--- 
+
+### `Contribution Graph`
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tony405-spec&hide_border=true&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FF0000&area=true&area_color=FF0000" width="97%" />
 </p>
