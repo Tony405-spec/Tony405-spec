@@ -22,17 +22,17 @@ location          Nairobi, Kenya
 
 ### `Selected Work`
 
-**[TechPulse](https://github.com/Tony405-spec/TechPulse)** — Final-year project. An ML platform that predicts a developer's technology trajectory from skill and activity signals.
+**[TechPulse](https://github.com/Tony405-spec/TechPulse)**: Final-year project. An ML platform that predicts a developer's technology trajectory from skill and activity signals.
 `Python` `scikit-learn` `predictive modeling`. Currently in it's final touches...
 
-**[Tableau Dashboard Templates](https://sites.google.com/view/kengadashboardtemplates)** — Independent product line of production-ready Tableau dashboards, including builds on Kenyan datasets (47 counties, FMCG sales). Distributed through Selar and a Google Sites storefront.
+**[Tableau Dashboard Templates](https://sites.google.com/view/kengadashboardtemplates)**: Independent product line of production-ready Tableau dashboards, including builds on Kenyan datasets (47 counties, FMCG sales). Distributed through Selar and a Google Sites storefront.
 `Tableau` `data visualization` `analytics`
 
-**[WebScraping in R](https://github.com/Tony405-spec/Web-Scraping-with-R)** —Demonstration of web scraping in R using rvest with interactive 3D terrain visualization in Plotly.
+**[WebScraping in R](https://github.com/Tony405-spec/Web-Scraping-with-R)**: Demonstration of web scraping in R using rvest with interactive 3D terrain visualization in Plotly.
 
-**[Customer churn prediction](https://github.com/Tony405-spec/customer-churn-prediction)** This repository simulates a real-world company ML pipeline using GitHub Actions ONLY (no local execution required).
+**[Customer churn prediction](https://github.com/Tony405-spec/customer-churn-prediction)**: This repository simulates a real-world company ML pipeline using GitHub Actions ONLY (no local execution required).
 
- **[CIFAR-10 image detection](https://github.com/Tony405-spec/docker-ml-portfolio)** I implemented reproducible training environments, image optimization strategies, and containerized file management patterns using TensorFlow and the CIFAR-10 dataset using docker and Kubernetes clustering principles. 
+ **[CIFAR-10 image detection](https://github.com/Tony405-spec/docker-ml-portfolio)**: I implemented reproducible training environments, image optimization strategies, and containerized file management patterns using TensorFlow and the CIFAR-10 dataset using docker and Kubernetes clustering principles. 
 
 <p align="center"><sub>Additional projects at <a href="https://github.com/skynet-datagrid-labs">github.com/skynet-datagrid-labs</a></sub></p>
 
