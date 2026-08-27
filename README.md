@@ -30,8 +30,7 @@ location          Nairobi, Kenya
 
 **[WebScraping in R](https://github.com/Tony405-spec/Web-Scraping-with-R)** —Demonstration of web scraping in R using rvest with interactive 3D terrain visualization in Plotly.
 
-**Smart Thrift** — AI-assisted second-hand marketplace built on a Firebase backend.
-`Java` `Firebase` `Room`
+**[Customer churn prediction](https://github.com/Tony405-spec/customer-churn-prediction)** This repository simulates a real-world company ML pipeline using GitHub Actions ONLY (no local execution required).
 
 <p align="center"><sub>Additional projects at <a href="https://github.com/skynet-datagrid-labs">github.com/skynet-datagrid-labs</a></sub></p>
 
