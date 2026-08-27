@@ -23,7 +23,7 @@ location          Nairobi, Kenya
 ### `Selected Work`
 
 **[TechPulse](https://github.com/Tony405-spec/TechPulse)** — Final-year project. An ML platform that predicts a developer's technology trajectory from skill and activity signals.
-`Python` `scikit-learn` `predictive modeling`
+`Python` `scikit-learn` `predictive modeling`. Currently in it's final touches...
 
 **[Tableau Dashboard Templates](https://sites.google.com/view/kengadashboardtemplates)** — Independent product line of production-ready Tableau dashboards, including builds on Kenyan datasets (47 counties, FMCG sales). Distributed through Selar and a Google Sites storefront.
 `Tableau` `data visualization` `analytics`
