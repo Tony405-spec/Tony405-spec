@@ -57,16 +57,15 @@ location          Nairobi, Kenya
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FF0000&count_private=true" width="100%" />
+      <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FF0000&count_private=true&cache_seconds=14400" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tony405-spec&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&currStreakNum=FF0000&sideNums=FF0000&sideLabels=FF0000&dates=FF0000" width="100%" />
     </td>
   </tr>
 </table>
-
 <p align="center">
-  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact" width="50%" />
+  <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact&cache_seconds=14400" width="50%" />
 </p>
 
 ---
@@ -75,3 +74,6 @@ location          Nairobi, Kenya
 <p align="center">
   <img src="./profile-trophy.svg" width="97%" />
 </p>
+
+---
+
