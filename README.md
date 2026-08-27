@@ -32,6 +32,8 @@ location          Nairobi, Kenya
 
 **[Customer churn prediction](https://github.com/Tony405-spec/customer-churn-prediction)** This repository simulates a real-world company ML pipeline using GitHub Actions ONLY (no local execution required).
 
+ **[CIFAR-10 image detection](https://github.com/Tony405-spec/docker-ml-portfolio)** I implemented reproducible training environments, image optimization strategies, and containerized file management patterns using TensorFlow and the CIFAR-10 dataset using docker and Kubernetes clustering principles. 
+
 <p align="center"><sub>Additional projects at <a href="https://github.com/skynet-datagrid-labs">github.com/skynet-datagrid-labs</a></sub></p>
 
 ---
