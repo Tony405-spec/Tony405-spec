@@ -28,8 +28,7 @@ location          Nairobi, Kenya
 **[Tableau Dashboard Templates](https://sites.google.com/view/kengadashboardtemplates)** — Independent product line of production-ready Tableau dashboards, including builds on Kenyan datasets (47 counties, FMCG sales). Distributed through Selar and a Google Sites storefront.
 `Tableau` `data visualization` `analytics`
 
-**SokoSmart** — Android e-commerce application for the Kenyan market, with a knapsack-based cart optimizer and M-Pesa checkout via the Daraja API.
-`Java` `SQLite` `Daraja API`
+**[WebScraping in R](https://github.com/Tony405-spec/Web-Scraping-with-R)** —Demonstration of web scraping in R using rvest with interactive 3D terrain visualization in Plotly.
 
 **Smart Thrift** — AI-assisted second-hand marketplace built on a Firebase backend.
 `Java` `Firebase` `Room`
