@@ -61,3 +61,9 @@ location          Nairobi, Kenya
 <p align="center">
   <img src="https://github-readme-stats-eosin-two-25.vercel.app/api/top-langs/?username=Tony405-spec&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=FF0000&text_color=FF0000&langs_count=6&layout=compact" width="400" height="165" />
 </p>
+
+---
+
+<p align="center">
+  <img src="./profile-trophy.svg" width="97%" />
+</p>
