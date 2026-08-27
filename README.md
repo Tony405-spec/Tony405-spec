@@ -53,6 +53,7 @@ location          Nairobi, Kenya
 ---
 
 ### `GitHub Stats`
+### `☞￣ᴥ￣☞    𝕿𝖔𝖓𝖞  𝕶𝖊𝖓𝖌𝖆`'s stats 
 
 <table align="center">
   <tr>
