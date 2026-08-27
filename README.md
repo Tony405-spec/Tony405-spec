@@ -64,6 +64,7 @@ location          Nairobi, Kenya
 
 ---
 
+### `GitHub Trophies`
 <p align="center">
   <img src="./profile-trophy.svg" width="97%" />
 </p>
