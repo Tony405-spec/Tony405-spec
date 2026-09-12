@@ -73,8 +73,9 @@ location          Nairobi, Kenya
 
 ### `GitHub Trophies`
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tony405-spec&theme=onedark&row=2&column=4" />
+  <img src="https://github-profile-trophy-42mf.vercel.app/?username=Tony405-spec&theme=kimbie_dark&row=2&column=4" />
 </p>
+
 
 ---
 
