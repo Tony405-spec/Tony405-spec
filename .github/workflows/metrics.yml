@@ -37,8 +37,17 @@ jobs:
           plugin_habits: yes
           plugin_habits_charts_type: bar
           plugin_habits_facts: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 14
 
           # Styling — dark + red
           config_display: large
           config_theme: dark
           config_gemoji: img
+          plugin_base_stylesheet: |
+            :root {
+              --color-canvas-default: #0D0D0D;
+              --color-fg-default: #FF0000;
+              --color-accent-fg: #FF0000;
+              --color-border-default: #FF0000;
+            }
