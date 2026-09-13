@@ -1,0 +1,44 @@
+name: metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Theme — dark background, red accents to match your setup
+          config_timezone: Africa/Nairobi
+          plugin_base: header, activity, community, repositories, metadata
+          base_indepth: yes
+
+          # Calendar heatmap
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+
+          # Most-used repos / activity
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_facts: yes
+
+          # Styling — dark + red
+          config_display: large
+          config_theme: dark
+          config_gemoji: img
