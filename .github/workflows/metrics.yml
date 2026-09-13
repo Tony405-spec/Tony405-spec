@@ -35,7 +35,7 @@ jobs:
 
           # Most-used repos / activity
           plugin_habits: yes
-          plugin_habits_charts_type: bar
+          plugin_habits_charts_type: graph
           plugin_habits_facts: yes
           plugin_habits_from: 100
           plugin_habits_days: 14
@@ -44,10 +44,10 @@ jobs:
           config_display: large
           config_theme: dark
           config_gemoji: img
-          plugin_base_stylesheet: |
+          extras_css: |
             :root {
-              --color-canvas-default: #0D0D0D;
-              --color-fg-default: #FF0000;
-              --color-accent-fg: #FF0000;
-              --color-border-default: #FF0000;
+              --color-canvas-default: #0D0D0D !important;
+              --color-fg-default: #FF0000 !important;
+              --color-accent-fg: #FF0000 !important;
+              --color-border-default: #FF0000 !important;
             }
