@@ -3,7 +3,10 @@
 </p>
 
 
-
+### `GitHub Metrics`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tony405-spec/Tony405-spec/main/metrics.svg" width="100%" />
+</p>
 
 <br>
 
