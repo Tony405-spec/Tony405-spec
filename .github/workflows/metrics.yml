@@ -17,6 +17,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          config_presets: "@lunar-red"
 
           # Theme — dark background, red accents to match your setup
           config_timezone: Africa/Nairobi
@@ -40,14 +41,6 @@ jobs:
           plugin_habits_from: 100
           plugin_habits_days: 14
 
-          # Styling — dark + red
+          # Styling
           config_display: large
-          config_theme: dark
           config_gemoji: img
-          extras_css: |
-            :root {
-              --color-canvas-default: #0D0D0D !important;
-              --color-fg-default: #FF0000 !important;
-              --color-accent-fg: #FF0000 !important;
-              --color-border-default: #FF0000 !important;
-            }
