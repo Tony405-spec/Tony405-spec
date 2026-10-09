@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tony405-spec/Tony405-spec/main/assets/frame-top.svg" alt="Saloon-style ornamental border" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D0D0D&height=220&section=header&text=Tony%20Kenga&fontSize=64&fontColor=FF4D4D&fontAlignY=38&animation=fadeIn&desc=%20%20Riding%20the%20wild%20frontier%20of%20tech%2C%20one%20dataset%20at%20a%20time%20🐎&descSize=18&descColor=E5E5E5&descAlignY=60" alt="Tony Kenga banner" width="100%" />
 </p>
 
@@ -172,4 +176,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=120&section=footer" alt="footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tony405-spec/Tony405-spec/main/assets/frame-bottom.svg" alt="Saloon-style ornamental border" width="100%" />
 </p>
