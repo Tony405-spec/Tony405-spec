@@ -159,7 +159,7 @@
 
 ---
 
-## 📬 `Send a Telegram`: Contact
+## 📬 `Send an email`: tonykenga23@gmail.com
 
 <p align="center">
   <a href="https://www.kaggle.com/kitilikenga"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
