@@ -174,6 +174,14 @@
   -->
 </p>
 
+```text
+╔══════════════════════════════════════╗
+║  ★  W A N T E D  ★                  ║
+║  Tony Kenga · Junior Data Scientist  ║
+║  Reward: one ML internship 🐎       ║
+╚══════════════════════════════════════╝
+```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=120&section=footer" alt="footer" width="100%" />
 </p>
