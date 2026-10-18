@@ -15,6 +15,7 @@
   <a href="https://github.com/skynet-datagrid-labs"><img src="https://img.shields.io/badge/Org-Skynet%20DataGrid%20Labs-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4D4D" alt="Skynet DataGrid Labs" /></a>
   <a href="https://orcid.org/0009-0007-6899-8590"><img src="https://img.shields.io/badge/ORCID-0009--0007--6899--8590-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://sites.google.com/view/kengadashboardtemplates"><img src="https://img.shields.io/badge/Store-Tableau%20Templates-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Templates Store" /></a>
+  <a href="https://www.linkedin.com/in/tony-kitili-b7203040b/"><img src="https://img.shields.io/badge/LinkedIn-Tony%20Kitili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
