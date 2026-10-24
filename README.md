@@ -115,7 +115,8 @@ org        Skynet DataGrid Labs
 
 ## 🎯 Beyond Projects
 
-- **Competitions:** 2nd on the public leaderboard of Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) (Getting Started competition), RMSLE [0.00044]. Approach: [one line, e.g. "stacked regularized regression + gradient boosting"],
+- **Competitions:** 2nd on the public leaderboard of Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard) (Getting Started competition), RMSLE [0.00044]. 
+Approach: [Lasso(0.60)+XGBoost(0.40), pruned to 77 features (optimal threshold found via alpha sweep), both models averaged across 5 random seeds for variance reduction. Retuned XGBoost for the 77-feature set. OOF RMSE: 0.1082 (price-stratified 5-fold CV)]
 
 ---
 
