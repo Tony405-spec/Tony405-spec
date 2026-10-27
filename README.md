@@ -135,4 +135,4 @@ Scraping with `rvest`, plus an interactive 3D terrain visualization in Plotly.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tony405-spec/Tony405-spec/main/assets/frame-bottom.svg" alt="Saloon-style ornamental border" width="100%" />
-</p>\n
+</p>
