@@ -13,26 +13,16 @@
 
 <img src="assets/frame-top.svg" alt="" width="100%" />
 
-## `$ whoami`
+## Building towards intelligent systems.
 
-Tony Kenga — final-year Bachelor of Science in Data Science student in Nairobi, building practical capability toward machine learning engineering.
+I'm Tony Kenga, a final-year Data Science student based in Nairobi, Kenya, developing practical expertise in machine learning, predictive modelling and data-driven engineering.
 
-```text
-$ cat mission.txt
-A model in a notebook is a hypothesis.
-A model people can use is an answer.
-I build the second kind.
+My focus is on taking analytical ideas beyond experimentation and turning them into reproducible, useful applications.
 
-$ cat principles.txt
-01  Start with the question, not the algorithm.
-02  Make it reproducible, or it didn't happen.
-03  Ship it, then let real use teach me what to fix.
-
-$ status
-now   finishing TechPulse (final-year project)
-next  ML engineering internship
-org   Skynet DataGrid Labs
-```
+<p><sub>CURRENT FOCUS</sub><br />
+<strong>NOW</strong> &nbsp; TechPulse — final-year research project.<br />
+<strong>NEXT</strong> &nbsp; Machine Learning Engineering internship.<br />
+<strong>COMMUNITY</strong> &nbsp; Skynet DataGrid Labs.</p>
 
 ## Selected work
 
@@ -82,7 +72,9 @@ MLflow · Kubernetes
 
 Lasso (0.60) and XGBoost (0.40), with 77 selected features. The ensemble used five random seeds; price-stratified five-fold cross-validation produced an out-of-fold RMSE of **0.1082**.
 
-## GitHub activity
+## Development footprint
+
+<p><sub>Repository activity and language mix</sub></p>
 
 <p align="center">
   <img src="https://github-readme-stats-eosin-two-25.vercel.app/api?username=Tony405-spec&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true&amp;bg_color=0D0D0D&amp;icon_color=FF4D4D&amp;text_color=E5E5E5&amp;count_private=true&amp;cache_seconds=14400" alt="GitHub activity statistics for Tony Kenga" />
