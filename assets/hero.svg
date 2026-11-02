@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Tony Kenga</title>
+  <desc id="desc">Machine Learning Engineer in the making, based in Nairobi, Kenya.</desc>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D0D0D"/>
+      <stop offset="0.68" stop-color="#190B0D"/>
+      <stop offset="1" stop-color="#4A0000"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#4A0000"/>
+      <stop offset="0.5" stop-color="#8B0000"/>
+      <stop offset="1" stop-color="#4A0000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="12" fill="url(#ground)"/>
+  <path d="M32 30h1136M32 270h1136" stroke="#C0C0C0" stroke-opacity=".22"/>
+  <path d="M32 30h76M1092 270h76" stroke="url(#rule)" stroke-width="3"/>
+  <text x="72" y="145" fill="#E5E5E5" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="1">Tony Kenga</text>
+  <text x="76" y="192" fill="#C0C0C0" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">MACHINE LEARNING ENGINEER IN THE MAKING</text>
+  <circle cx="78" cy="232" r="3" fill="#8B0000"/>
+  <text x="92" y="238" fill="#A9A9A9" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">NAIROBI, KENYA</text>
+  <path d="M1050 90v120M1062 102v96" stroke="#C0C0C0" stroke-opacity=".16"/>
+  <path d="M1082 150h54" stroke="#8B0000" stroke-width="2"/>
+  <circle cx="1109" cy="150" r="14" fill="none" stroke="#C0C0C0" stroke-opacity=".38"/>
+  <circle cx="1109" cy="150" r="3" fill="#8B0000"/>
+</svg>
