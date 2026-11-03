@@ -53,11 +53,6 @@ An independent product line of production-ready dashboards, including builds on 
 
 <sub>`Tableau` · `Data visualization` · `Analytics`</sub>
 
-### [Web Scraping with R](https://github.com/Tony405-spec/Web-Scraping-with-R)
-
-Web scraping with `rvest`, paired with an interactive 3D terrain visualization in Plotly.
-
-<sub>`R` · `rvest` · `Plotly`</sub>
 
 <p align="center"><sub>Also building with <a href="https://github.com/skynet-datagrid-labs">Skynet DataGrid Labs</a></sub></p>
 
