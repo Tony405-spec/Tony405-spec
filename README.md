@@ -67,7 +67,8 @@ Docker · PyTorch · Keras · R · Power BI
 <sub>LEARNING NEXT</sub><br />
 MLflow · Kubernetes
 
-## Selected achievement
+
+## Selected achievements
 
 ### [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)
 
@@ -78,6 +79,17 @@ Lasso (0.60) and XGBoost (0.40), with 77 selected features. The ensemble used fi
 
 <sub>VALIDATION</sub><br />
 Price-stratified five-fold cross-validation, out-of-fold RMSE **0.1082**.
+
+### [Algolymp Practice Contest 1](https://www.kaggle.com/competitions/algolymp-contest-1/leaderboard)
+
+**Community Competition Winner** · Kaggle · 2026
+
+<sub>COMPETITION</sub><br />
+Community-hosted predictive modelling challenge focused on regression, with submissions evaluated using Mean Absolute Error (MAE).
+
+<sub>FOCUS</sub><br />
+Predictive modelling · Regression · Model evaluation
+
 
 ## Development footprint
 
